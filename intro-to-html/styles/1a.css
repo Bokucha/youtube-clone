@@ -1,0 +1,107 @@
+.p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.add-to-cart {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  border-color: rgb(255, 216, 20);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: 0;
+}
+.add-to-cart:hover {
+opacity: 0.8;
+}
+.add-to-cart:active {
+opacity: 0.4;
+}
+
+.buy-now {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  border-color: rgb(255, 164, 28);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.buy-now:hover {
+  opacity: 0.8;
+}
+.buy-now:active {
+  opacity: 0.4;
+}
+
+.running-shoes {
+  color: black;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.in-stock {
+  color: rgb(0, 118, 0);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.free-delivery {
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.to-amazon {
+  color: rgb(0, 113, 133);
+  font-weight: 500;
+  font-size: 20px;
+}
+.to-amazon:hover {
+  color: rgb(255, 123, 0);
+}
+
+.price-usd {
+  color: black;
+  font-weight: 600;
+  font-size: 32px;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+.span-usd {
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+  font-weight: 500;
+}
+.price-today {
+  color: green;
+  margin-top: 5px;
+  margin-bottom: 0;
+
+}
+.after-hours {
+  color: gray;
+  margin-top: 5px;
+}
+.span-numbers {
+  color: red;
+}
